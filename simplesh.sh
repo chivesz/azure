@@ -1,3 +1,3 @@
-apt-get -y install unzip
+apt install -y unzip
 curl -L https://github.com/rafaelstz/simplesh/archive/master.zip -o simplesh.zip
 unzip simplesh.zip && rm simplesh.zip
