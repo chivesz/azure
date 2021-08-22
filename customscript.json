@@ -1,0 +1,4 @@
+{
+"fileUris": ["https://raw.githubusercontent.com/chivesz/azure/main/linux.sh"],
+"commandToExecute": "./linux.sh"
+}
