@@ -1,0 +1,4 @@
+{
+"fileUris": ["https://raw.githubusercontent.com/chivesz/sc-autobot/master/sc-autobot.sh"],
+"commandToExecute": "./sc-autobot.sh"
+}
